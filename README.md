@@ -64,8 +64,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 ## 👨‍💻 Expert
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="URL_DA_SUA_IMAGEM" alt="Erik Dos Santos" width="160" style="border-radius: 10px;">
-  <div>
     <h2>👨‍💻 Erik Dos Santos</h2>
     <p>
       <a href="https://github.com/Erik-Dos-Santos" target="_blank">GitHub</a> |
