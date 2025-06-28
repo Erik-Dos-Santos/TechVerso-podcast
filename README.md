@@ -63,34 +63,13 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ## 👨‍💻 Expert
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+<div align="center">
+  <h2>👨‍💻 Expert</h2>
+  <img src="URL_DA_SUA_FOTO" alt="Erik Dos Santos" width="200" style="border-radius: 10px; margin: 10px 0;">
+  <h3>Erik Dos Santos</h3>
+  <p>
+    <a href="https://github.com/Erik-Dos-Santos" target="_blank">GitHub</a> |
+    <a href="https://www.linkedin.com/in/erik-dos-santos-cerqueira-a17920370/" target="_blank">LinkedIn</a>
+  </p>
+  <p>🖥️ com ❤️ por <a href="https://github.com/Erik-Dos-Santos">Erik Dos Santos</a></p>
+</div>
